@@ -1,0 +1,4 @@
+informatika: 60 40 20
+fizika: 40 - 20
+matematika: 40 - 20
+fiskultura: - 20 -
